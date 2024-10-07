@@ -42,7 +42,7 @@ has proven to be the most effective way to learn Kubernetes, boost team producti
 cloud native development. It's trusted by the world's best product teams; from innovative startups to iconic
 enterprises. Lens is the #1 choice for Kubernetes with over 1 million users globally.
 
-## Install
+## How to Install
 
 Download and install Lens Desktop from our [website](https://k8slens.dev).
 
